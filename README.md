@@ -1,6 +1,6 @@
 # ICONS [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Custom 16x16 ASPRITE, PNG, SVG, and ICO files.
+Custom ASPRITE, SVG, PNG, and ICO files.
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
